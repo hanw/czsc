@@ -1,2 +1,3 @@
 czsc
+streamlit-lightweight-charts
 
